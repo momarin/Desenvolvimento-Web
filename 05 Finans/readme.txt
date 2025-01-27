@@ -1,6 +1,5 @@
-- Projeto Finans do curso de Desenvolvimento Web;
-
-- Projeto simples para fixação de conhecimentos de CSS e HTML, não contendo ainda JS.
+# Projeto Finans do curso de Desenvolvimento Web.
+-Projeto simples para fixação de conhecimentos de CSS e HTML, não contendo ainda JS.
 
 -Funcionalidades:
     - Site para organização financeira, contendo:
